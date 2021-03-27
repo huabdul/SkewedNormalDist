@@ -2,7 +2,7 @@
 
 A python class for calculating the probability density function of a [skewed normal distribution](https://en.wikipedia.org/wiki/Skew_normal_distribution) given its **mode** (i.e. location of the peak), standard deviation, and alpha (skewness parameter).
 
-This allows the creation of a skewed normal distribution that has its maximum value at the specified point (mode), instead of the standard way to define it based on the mean (which does not correspond with the maximum point for alpha != 0).
+This allows defining a skewed normal distribution based on **its maximum value at the specified point (mode)**, instead of the standard way to define it based on the mean (which does not correspond with the maximum point for alpha != 0).
 
 Example:
 
